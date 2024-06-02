@@ -35,8 +35,8 @@ The code includes example prompts and expected answers for testing the system. Y
 
 **LLM Location :**
 
-Llama 2 https://drive.google.com/file/d/1IT7sO5WVazay0jsAe1rEi4U84UZV2bc_/view?usp=sharing.
-GPT https://drive.google.com/file/d/18tpUVBzJakoSmw-dXBfS849BU0xvSx0p/view?usp=sharing.
+* **Llama 2:** https://drive.google.com/file/d/1IT7sO5WVazay0jsAe1rEi4U84UZV2bc_/view?usp=sharing
+* **GPT:** https://drive.google.com/file/d/18tpUVBzJakoSmw-dXBfS849BU0xvSx0p/view?usp=sharing
 
 **Further Learning:**
 
