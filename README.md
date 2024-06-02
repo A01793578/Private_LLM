@@ -52,4 +52,4 @@ Contributions to this project are welcome! Please feel free to open issues or su
 
 This project is licensed under the MIT License.
 
-**Note:** This README file is a template. You can customize it further to provide more detailed information about your project and its functionality.
+**Note:** This PROJECT file is a template created by Kokusho Torres. Dont forget it!
