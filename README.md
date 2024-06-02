@@ -33,6 +33,11 @@ This repository contains a Python implementation of a Retrieval-Augmented Genera
 
 The code includes example prompts and expected answers for testing the system. You can modify these prompts to explore different question types.
 
+**LLM Location :**
+
+Llama 2 https://drive.google.com/file/d/1IT7sO5WVazay0jsAe1rEi4U84UZV2bc_/view?usp=sharing.
+GPT https://drive.google.com/file/d/18tpUVBzJakoSmw-dXBfS849BU0xvSx0p/view?usp=sharing.
+
 **Further Learning:**
 
 * **LangChain Documentation:** [https://python.langchain.com/v0.1/docs/integrations/llms/llamacpp/](https://python.langchain.com/v0.1/docs/integrations/llms/llamacpp/)
